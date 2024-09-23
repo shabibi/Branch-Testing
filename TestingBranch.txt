@@ -6,3 +6,4 @@ add first commit in branch1
 add second commit in branch1
 **********************************
 add first commit in branch2
+add second commit in branch1
